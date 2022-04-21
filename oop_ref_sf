@@ -1,0 +1,146 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Editorial by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>ePortfolio</strong> from Nicolas Haas</a>
+								</header>
+
+							<!-- Banner -->
+								<section id="one">
+						      			<div class="inner">
+                                						<header class="major">
+											<h2>System Failure: An example (week 1-3)</h2>
+                                						</header>
+                                						<p>Japan's Mizuho Bank</p>
+                            						</div>
+								</section>
+								<section>
+								<div class="content">
+								<div class="inner">
+								<header class="major">
+									<h2>Summary</h2>
+								</header>
+								<p></p>
+								<ul class="actions">
+									<li><a href="\Users\Nicolas Haas\Essex\object_oriented_programming\Japan.pdf" class="button">Learn More</a></li>
+								</ul>
+								</div>
+								</div>
+								</section>
+								<section>
+									<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h2>Reflection</h2>
+										</header>
+										<p>What I have learnt and how?</p>
+									<ul class="actions">
+									<p>The book from Sommerville emphasizes the difference between systematic (deterministic) and non-deterministic failures. Though, it should also be fairly said that over the last decade, the Internet of Things (IoT) has been arising and this idea came a bit too short in this book. So looking back to the Japanese ATM issue at the Mizuho Bank, it can also be a reason that the system failed because the system has been adapated to IoT over the last few years (month). For example using wifi, the ATM could easily connect to people around the ATM (to the smartphones for example when an open wifi network, the city network for example, is used) and therefore could simply try to estimate future ATM transactions. This is only one idea to think about IoT in terms how it could be an initializer to the system failure at the ATM. Nevertheless, this reason was not mentioned in the report that has been published by the bank itself in 2021 (you can find the link into the reference list above). So, it seems unlikely that IoT adaptatiions play a role in this case.</p>
+
+									</ul>
+									</div>
+									</div>
+								</section>
+								<section>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h2>Professional Skills Matrix and Action Plan</h2>
+											</header>
+											<p>What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?</p>
+												<ul class="actions">
+													<li><a href="oop_skills.html" class="button">Learn More</a></li>
+												</ul>
+										</div>
+									</div>
+								</section>
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="elements.html">Launching into Computer Science</a></li>
+										<li><a href="generic.html">Object Oriented Programming</a></li>
+										<li>
+											<span class="opener">Submenu</span>
+											<ul>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
+											</ul>
+										</li>
+
+									</ul>
+								</nav>
+
+
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">nh21432@essex.ac.uk</a></li>
+										<li class="icon solid fa-phone">0032(0)495 43 95 77</li>
+										<li class="icon solid fa-home">Hagbenden 61<br />
+										BE-4731 Eynatten</li>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
