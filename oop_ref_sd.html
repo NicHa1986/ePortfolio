@@ -40,7 +40,7 @@
 										</h4>
 											
 											<ul class="actions">
-												<p>STILL IN WORK</p>
+												<p>Aside from differences between inheritance and association, I was also thinking some time about aggregation (in UML) and what the main properties of that relationship are. I read in (Ambler, 2003) that it similar to composition where one part is the "whole" and the other part is the "part" but there is a strong dependency of the part to the whole (the strong dependency is the essential difference to composition). However, I also had always the expression of "aggregation" in mind that is also repeatedly used in Computer Science when accumulated data are requested and I didn't see a direct relation to the definition of aggregation in UML. But thinking about a car class helps you to see the connection. A car class can have into it a class brand class whereas every car brand itself has its own attributes (engine, engine power, overall weight, etc.). the interesting thing is then when you go for an aggregation relatioinship that this structure of a car would then allow to aggregate values (the "SUM" for example) by engine (or by overall weight) for example. This is not something that can easily be done when you would put the car brand class outside of the car class (and using composition as relation for example). Then you would have to use an iterative data structure (a list or a dictiionary) within the car brand class and to iterate over it and sort it by some criteria. So aggregation as a relationship does not only represent something visually, it also gives you advantages in requesting aggregated values.</p>
 											</ul>	
 									
 											<ul>
